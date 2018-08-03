@@ -4,7 +4,7 @@
     <groupId>com.springapp</groupId>
     <artifactId>Spring-Security-Example</artifactId>
     <packaging>war</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.10-SNAPSHOT</version>
     <name>Spring-Security-Example</name>
     <url>http://maven.apache.org</url>
 
